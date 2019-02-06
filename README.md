@@ -32,3 +32,9 @@
 
 <h4>Language + Computers</h4>
     Fundamentals of processing of natural language and computational linguistics. Student learn to program using Python (3.x) and also learn to use computational tools such as NLTK for language analysis. 
+    
+
+<h2>Research Project:</h2>
+    
+    <h4>Coeur d'Alene Online Language Resource Center</h4>
+    A project recognized for its excellence by the Linguistic Society of America in 2018, the NEH/NSF grant-funded mission to preserve the tribe's language resources on a website has undergone an update to include JSReact.
