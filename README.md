@@ -22,7 +22,7 @@
 
 <h4>Computational linguistics</h4>
     This is a introductory course in computational linguistics at an advanced level.
-    Software: Perl, Python, and SWI-Prolog (freely available) in the computer laboratory classes. Students implement finite state automata, transducers, parsers and translation programs based on grammar rules in a series of computer laboratory exercises. In the case of numerical calculations, we make use of Microsoft Excel for worked examples and homework questions. 
+    Students implement finite state automata, transducers, parsers and translation programs based on grammar rules in a series of computer laboratory exercises. Software: Software: Perl, Python, Bash, SWI-Prolog, Ubuntu(Linux), Virtual Machine. In the case of numerical calculations, we make use of Microsoft Excel for worked examples and homework questions. 
 
 <h4>Speech Technology</h4>
     Topics include speech synthesis, automatic speech recognition, acoustics, waveforms, spectrograms, and other speech technologies. This course gives students background for a career in the speech technology industry. Software: python, jupyter notebooks, Praat.
