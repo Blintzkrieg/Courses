@@ -37,4 +37,5 @@
 <h2>Research Project:</h2>
     
 <h4><a href="http://lasrv01.ipfw.edu/COLRC/">Coeur d'Alene Online Language Resource Center</a></h4>
-    A project recognized for its excellence by the Linguistic Society of America in 2018, the NEH/NSF grant-funded mission to preserve the tribe's language resources on a website has undergone an update to include JSReact.
+    A project recognized for its excellence by the Linguistic Society of America in 2018, the <a href="https://linguistics.arizona.edu/news/neh-awards-del-grant-coeur-dalene-language-programs-project">NEH grant-funded</a>
+    mission to preserve the tribe's language resources on a website has undergone an update to include JSReact.
