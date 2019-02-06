@@ -6,7 +6,7 @@
 <h2> Courses Taken:</h2>
 
 <h4>Statistical Methods in Speech and Language Processing</h4>
-    This course introduces the key concepts underlying statistical natural language processing. Students will learn a variety of techniques for the computational modeling of natural language, including: n-gram models, smoothing, Hidden Markov models, Bayesian Inference, Expectation Maximization, Viterbi, Inside-Outside Algorithm for Probabilistic Context-Free Grammars, and higher-order language models. Software: GitHub, Python: NLTK, SpaCy, numpy, scikit-learn. 
+    This course introduces the key concepts underlying statistical natural language processing. Students will learn a variety of techniques for the computational modeling of natural language, including: n-gram models, smoothing, Hidden Markov models, Bayesian Inference, Expectation Maximization, Viterbi, Inside-Outside Algorithm for Probabilistic Context-Free Grammars, and higher-order language models. Software: GitHub, Git Bash, Python: NLTK, SpaCy, numpy, scikit-learn. 
 
 <h4>Advanced Computational linguistics</h4>
     This course provides a hands-on project-based approach to particular problems and issues in computational linguistics.  Students are expected to be able to gain enough familiarity to install, run and perform project work on these packages on their own machines. Projects to be tackled in this course are themed around the topic of language understanding:
